@@ -19,11 +19,12 @@ requirements:
   host:
     - pip
     - poetry-core >=1.0.0
-    - python >=3.8.0,<4.0.0
+    - python
+    - wheel
   run:
     - itsdangerous >=2.0.1,<3.0.0
-    - python >=3.8.0,<4.0.0
-    - starlette >=0,<1
+    - python
+    - starlette <1.0
 
 test:
   imports:
