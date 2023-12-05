@@ -32,8 +32,6 @@ test:
   commands:
     - pip check
   requires:
-    - aioredis >=2.0.0
-    - redis-py
     - pip
 
 about:
