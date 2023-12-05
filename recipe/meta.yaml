@@ -37,6 +37,9 @@ test:
 about:
   home: https://github.com/alex-oleshkevich/starsessions
   summary: Pluggable session support for Starlette.
+  description: Advanced sessions for Starlette and FastAPI frameworks
+  dev_url: https://github.com/alex-oleshkevich/starsessions
+  doc_url: https://github.com/alex-oleshkevich/starsessions/blob/master/README.md
   license: MIT
   license_file: LICENSE
 
